@@ -1,4 +1,3 @@
-package com.company;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -6,7 +5,6 @@ import java.util.List;
 import java.util.LinkedList;
 
 public class Main {
-
 
     static boolean solve(String s){
 
