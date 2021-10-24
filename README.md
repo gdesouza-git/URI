@@ -1,2 +1,2 @@
 # URI
-Solução de problemas do URI
+Solução de problemas do URI Online Judge
